@@ -1,8 +1,8 @@
 # cunningplay-com
 
-Static placeholder site for **Cunningplay LLC** (https://cunningplayinc.github.io/cunningplay-com/ or https://cunningplay.com once DNS is configured).
+Static placeholder site for **CunningPlay LLC** (https://cunningplayinc.github.io/cunningplay-com/ or https://cunningplay.com once DNS is configured).
 
-Single-page holding-company landing — names Cunningplay LLC, links to Ashenmarch as the current product, signals incubator intent ("more projects in time").
+Single-page holding-company landing — names CunningPlay LLC, links to Ashenmarch as the current product, signals incubator intent ("more projects in time").
 
 ## Editing
 
